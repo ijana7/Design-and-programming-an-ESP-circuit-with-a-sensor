@@ -19,7 +19,7 @@ In the `loop()` function, which runs continuously:
 
  The program pauses for 500 milliseconds (half a second) before repeating the process.
 
-The key steps are:
+## The key steps are:
 1. Trigger the sensor to send out a sound wave.
 2. Measure the time it takes for the sound wave to bounce back.
 3. Calculate the distance based on the time measurement.
